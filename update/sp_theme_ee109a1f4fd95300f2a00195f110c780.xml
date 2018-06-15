@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables>$sp-logo-margin-x: 		15px !default;&#13;
+$sp-tagline-color:		$text-color !default;&#13;
+$navbar-inverse-bg: 	#3a3f51 !default;&#13;
+$navbar-inverse-link-color: #bdc0c4 !default;&#13;
+$navbar-inverse-link-hover-color: #ffffff !default;&#13;
+$body-bg: 				#f0f3f4 !default;&#13;
+$dropdown-link-disabled-color: #ccc;&#13;
+</css_variables>
+        <footer display_value="AEGIS LegalFooter">4ec0925f4fd95300f2a00195f110c755</footer>
+        <footer_fixed>false</footer_fixed>
+        <header display_value="AEGIS Stock Header">b57d0a574fd95300f2a00195f110c7ba</header>
+        <name>AEGIS Stock</name>
+        <navbar_fixed>true</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-11 14:33:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ee109a1f4fd95300f2a00195f110c780</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>AEGIS Stock</sys_name>
+        <sys_package display_value="Service Portal ver3" source="x_aegi2_service_po">9907f1c34f5d1300f2a00195f110c7bb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Portal ver3">9907f1c34f5d1300f2a00195f110c7bb</sys_scope>
+        <sys_update_name>sp_theme_ee109a1f4fd95300f2a00195f110c780</sys_update_name>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2018-04-11 14:37:53</sys_updated_on>
+    </sp_theme>
+</record_update>

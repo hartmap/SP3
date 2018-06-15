@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <click_target>urlNew</click_target>
+        <details/>
+        <details_link_text/>
+        <details_page/>
+        <details_url>/kb_view_customer.do?sysparm_article=KB0010406</details_url>
+        <dismiss_options>not_dismissible</dismiss_options>
+        <display_first>true</display_first>
+        <display_style display_value="Urgent">339ea11ae7d4030075c2a117c2f6a9cf</display_style>
+        <from>2018-04-11 17:33:39</from>
+        <glyph>check</glyph>
+        <glyph_alt_text/>
+        <name>Downtime - NextGen Claims</name>
+        <public>true</public>
+        <roles/>
+        <summary>REMINDER:&#13;
+&#13;
+In order to perform required maintenance the following applications will not be available this evening from 8:00 p.m. till midnight:&#13;
+&#13;
+•	Next Gen Policy&#13;
+•	Next Gen Claims&#13;
+•	AegisLink&#13;
+•	Online Application&#13;
+•	Work Force Management&#13;
+•	RMS&#13;
+</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-13 17:33:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>805c85884f69d3008f458a4e0210c7b1</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Downtime - NextGen Claims</sys_name>
+        <sys_package display_value="Service Portal ver3" source="x_aegi2_service_po">9907f1c34f5d1300f2a00195f110c7bb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Portal ver3">9907f1c34f5d1300f2a00195f110c7bb</sys_scope>
+        <sys_update_name>announcement_805c85884f69d3008f458a4e0210c7b1</sys_update_name>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2018-04-13 19:57:51</sys_updated_on>
+        <title>Downtime - NextGen Claims</title>
+        <to>2018-04-16 17:33:45</to>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+</record_update>

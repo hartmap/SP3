@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph/>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>Legal</label>
+        <order>100</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <sp_page display_value="my_division">11aa292d4fad1b00f2a00195f110c7c9</sp_page>
+        <sp_rectangle_menu/>
+        <sp_rectangle_menu_item display_value="DIvision">4c707d654fed1b00f2a00195f110c795</sp_rectangle_menu_item>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-18 12:06:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a981f9654fed1b00f2a00195f110c71f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Legal</sys_name>
+        <sys_package display_value="Service Portal ver3" source="x_aegi2_service_po">9907f1c34f5d1300f2a00195f110c7bb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Portal ver3">9907f1c34f5d1300f2a00195f110c7bb</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_a981f9654fed1b00f2a00195f110c71f</sys_update_name>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2018-04-18 12:06:04</sys_updated_on>
+        <table/>
+        <type>page</type>
+        <url/>
+        <url_target/>
+    </sp_rectangle_menu_item>
+</record_update>

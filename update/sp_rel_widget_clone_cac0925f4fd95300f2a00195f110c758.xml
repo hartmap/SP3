@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_rel_widget_clone">
+    <sp_rel_widget_clone action="INSERT_OR_UPDATE">
+        <child display_value="AEGIS LegalFooter">4ec0925f4fd95300f2a00195f110c755</child>
+        <cloned>2018-04-11 14:36:18</cloned>
+        <last_validated>2018-04-11 14:36:18</last_validated>
+        <parent display_value="LegalFooter">64407ec3532332000d620d0323dc3436</parent>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sp_widget&gt;&lt;category/&gt;&lt;client_script&gt;&lt;![CDATA[function() {
+  /* widget controller */
+  var c = this;
+}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css&gt;.legalFooter {
+  padding-bottom : 20px; 
+}&lt;/css&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id/&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link/&gt;&lt;name&gt;LegalFooter&lt;/name&gt;&lt;option_schema/&gt;&lt;public&gt;false&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function() {
+
+})();]]&gt;&lt;/script&gt;&lt;servicenow&gt;false&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_header_footer&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-06-29 02:14:56&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;64407ec3532332000d620d0323dc3436&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;LegalFooter&lt;/sys_name&gt;&lt;sys_package display_value="Benchmark Client" source="sn_bm_client"&gt;3ad18693db92220004997878f0b8f516&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Benchmark Client"&gt;3ad18693db92220004997878f0b8f516&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_header_footer_64407ec3532332000d620d0323dc3436&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-06-30 01:12:45&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col-xs-12 text-center legalFooter"&gt;
+        ${ServiceNow Confidential. © ServiceNow, Inc. All rights reserved.}
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;</payload>
+        <sys_class_name>sp_rel_widget_clone</sys_class_name>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-11 14:36:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cac0925f4fd95300f2a00195f110c758</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4ec0925f4fd95300f2a00195f110c755</sys_name>
+        <sys_package display_value="Service Portal ver3" source="x_aegi2_service_po">9907f1c34f5d1300f2a00195f110c7bb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Portal ver3">9907f1c34f5d1300f2a00195f110c7bb</sys_scope>
+        <sys_update_name>sp_rel_widget_clone_cac0925f4fd95300f2a00195f110c758</sys_update_name>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2018-04-11 14:36:18</sys_updated_on>
+    </sp_rel_widget_clone>
+</record_update>

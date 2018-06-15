@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>$brand-primary: #428bca;&#13;
+$body-bg: #f0f3f4;&#13;
+$state-success-text: #5cb85c;&#13;
+$sp-homepage-bg: #fff;&#13;
+$sp-navbar-divider-color: #988574;&#13;
+$text-color: #988574;&#13;
+$sp-logo-margin-y: .5rem;&#13;
+$navbar-inverse-link-hover-color: #f2d2d2;&#13;
+$panel-bg: #fff;&#13;
+$brand-success: #5cb85c;&#13;
+$navbar-inverse-bg: #ffffff;&#13;
+$brand-warning: #f0ad4e;&#13;
+$brand-danger: #d9534f;&#13;
+$sp-tagline-color: #988574;&#13;
+$navbar-inverse-link-color: #988574;&#13;
+$brand-info: #5bc0de;&#13;
+$link-color: #988574;&#13;
+$sp-logo-margin-x: 15px;&#13;
+$btn-default-bg: #d2c9c2;&#13;
+$text-muted: #979797;</css_variables>
+        <default>false</default>
+        <homepage display_value="index3">a3f72d5f4f1553008f458a4e0210c723</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="kb_home">e1c919e4dbd3220099f93691f0b8f535</kb_knowledge_page>
+        <login_page/>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config><![CDATA[[{
+	"tagline": {
+		"table" : "sp_instance",
+		"sys_id" : "34fe3d96cb20020000f8d856634c9cf4",
+		"field" : "title"
+	},
+	"hero_background": {
+		"table" : "sp_container",
+		"sys_id" : "be98a8d2cb20020000f8d856634c9c63",
+		"field" : "background_image"
+	}
+}]]]></quick_start_config>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="AEGIS SP Header Menu">9b33f29b4f5d5300f2a00195f110c78f</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-10 18:36:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6b0e398f4f5d1300f2a00195f110c744</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>Service Portal version 3</sys_name>
+        <sys_package display_value="Service Portal ver3" source="x_aegi2_service_po">9907f1c34f5d1300f2a00195f110c7bb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Portal ver3">9907f1c34f5d1300f2a00195f110c7bb</sys_scope>
+        <sys_update_name>sp_portal_6b0e398f4f5d1300f2a00195f110c744</sys_update_name>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2018-06-12 19:04:23</sys_updated_on>
+        <theme display_value="AEGIS Stock">ee109a1f4fd95300f2a00195f110c780</theme>
+        <title>Service Portal version 3</title>
+        <url_suffix>sp3</url_suffix>
+    </sp_portal>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>logo</file_name>
+        <image_height>56</image_height>
+        <image_width>181</image_width>
+        <size_bytes>2147</size_bytes>
+        <size_compressed>2170</size_compressed>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-10 18:37:54</sys_created_on>
+        <sys_id>6b7eb98b4f5d1300f2a00195f110c79f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2018-04-10 18:37:54</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>6b0e398f4f5d1300f2a00195f110c744</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="6b7eb98b4f5d1300f2a00195f110c79f">6b7eb98b4f5d1300f2a00195f110c79f</sys_attachment>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-10 18:37:54</sys_created_on>
+        <sys_id>ab7eb98b4f5d1300f2a00195f110c79f</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2880</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="6b7eb98b4f5d1300f2a00195f110c79f">6b7eb98b4f5d1300f2a00195f110c79f</sys_attachment>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-10 18:37:54</sys_created_on>
+        <sys_id>2f7eb98b4f5d1300f2a00195f110c79f</sys_id>
+    </sys_attachment_doc>
+</record_update>

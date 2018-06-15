@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_header_footer">
+    <sp_header_footer action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.legalFooter {&#13;
+  padding-bottom : 20px; &#13;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link/>
+        <name>AEGIS LegalFooter</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_header_footer</sys_class_name>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-11 14:36:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4ec0925f4fd95300f2a00195f110c755</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>AEGIS LegalFooter</sys_name>
+        <sys_package display_value="Service Portal ver3" source="x_aegi2_service_po">9907f1c34f5d1300f2a00195f110c7bb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Portal ver3">9907f1c34f5d1300f2a00195f110c7bb</sys_scope>
+        <sys_update_name>sp_header_footer_4ec0925f4fd95300f2a00195f110c755</sys_update_name>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2018-06-15 11:23:05</sys_updated_on>
+        <template><![CDATA[<div class="container">
+    <div class="row">
+      <div class="col-xs-12 text-center legalFooter">
+        ${Confidential © AEGIS Insurance Services, Inc. All rights reserved.}
+      </div>
+    </div>
+  </div>]]></template>
+    </sp_header_footer>
+</record_update>

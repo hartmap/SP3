@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image>b3396d9f4f1553008f458a4e0210c763.iix?t=m</background_image>
+        <background_style>cover</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>hidden-xs</class_name>
+        <container_class_name/>
+        <name>SP Home - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="home">5b20d6834fd913008f458a4e0210c797</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-10 19:55:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1f20d6834fd913008f458a4e0210c799</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SP Home - Container 1</sys_name>
+        <sys_package display_value="Service Portal ver3" source="x_aegi2_service_po">9907f1c34f5d1300f2a00195f110c7bb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Portal ver3">9907f1c34f5d1300f2a00195f110c7bb</sys_scope>
+        <sys_update_name>sp_container_1f20d6834fd913008f458a4e0210c799</sys_update_name>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2018-04-11 11:43:35</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#eaf6e8</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <encryption_context/>
+        <file_name>background_image</file_name>
+        <image_height>177</image_height>
+        <image_width>284</image_width>
+        <size_bytes>2279</size_bytes>
+        <size_compressed>2230</size_compressed>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-11 11:43:33</sys_created_on>
+        <sys_id>b3396d9f4f1553008f458a4e0210c763</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2018-04-11 11:43:34</sys_updated_on>
+        <table_name>ZZ_YYsp_container</table_name>
+        <table_sys_id>1f20d6834fd913008f458a4e0210c799</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="background_image" sys_id="b3396d9f4f1553008f458a4e0210c763">b3396d9f4f1553008f458a4e0210c763</sys_attachment>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-11 11:43:33</sys_created_on>
+        <sys_id>f3396d9f4f1553008f458a4e0210c763</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2960</length>
+        <position>1</position>
+        <sys_attachment display_value="background_image" sys_id="b3396d9f4f1553008f458a4e0210c763">b3396d9f4f1553008f458a4e0210c763</sys_attachment>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-11 11:43:33</sys_created_on>
+        <sys_id>77396d9f4f1553008f458a4e0210c763</sys_id>
+    </sys_attachment_doc>
+</record_update>

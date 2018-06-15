@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>warning</color>
+        <css/>
+        <display_field/>
+        <field_list>short_description,u_division,assigned_to,u_next_review_date,u_reviewer_s</field_list>
+        <filter table="u_aegis_pnp">u_division=javascript:gs.getUser().getDepartmentID()^numberSTARTSWITHPNP^<item endquery="false" field="u_division" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUser().getDepartmentID()"/>
+            <item endquery="false" field="number" goto="false" newquery="false" operator="STARTSWITH" or="false" value="PNP"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>15</maximum_entries>
+        <order>1</order>
+        <order_by>u_division</order_by>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">31d4a18c4fa9d3008f458a4e0210c731</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2018-04-13 19:19:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>57d4290c4fa9d3008f458a4e0210c795</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Policies and Procedures</sys_name>
+        <sys_package display_value="Service Portal ver3" source="x_aegi2_service_po">9907f1c34f5d1300f2a00195f110c7bb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Portal ver3">9907f1c34f5d1300f2a00195f110c7bb</sys_scope>
+        <sys_update_name>sp_instance_table_57d4290c4fa9d3008f458a4e0210c795</sys_update_name>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2018-04-13 19:48:40</sys_updated_on>
+        <table>u_aegis_pnp</table>
+        <title>Policies and Procedures</title>
+        <url>/u_aegis_pnp_list.do?sysparm_fixed_query=u_division%3Djavascript%3Ags.getUser().getDepartmentID()%5EnumberSTARTSWITHPNP%5E</url>
+        <widget_parameters/>
+    </sp_instance_table>
+</record_update>
