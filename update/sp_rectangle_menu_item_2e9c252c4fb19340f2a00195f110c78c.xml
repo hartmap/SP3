@@ -10,7 +10,7 @@
         <filter/>
         <glyph/>
         <hint/>
-        <kb_article display_value="KB0010408">654d65ec4fb19340f2a00195f110c760</kb_article>
+        <kb_article display_value="">654d65ec4fb19340f2a00195f110c760</kb_article>
         <kb_category/>
         <kb_topic/>
         <label>2018 Holiday Schedule</label>
@@ -41,4 +41,5 @@
         <url/>
         <url_target/>
     </sp_rectangle_menu_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=2e9c252c4fb19340f2a00195f110c78c"/>
 </record_update>

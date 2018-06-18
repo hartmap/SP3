@@ -34,4 +34,5 @@
         <sys_updated_on>2018-04-13 17:50:18</sys_updated_on>
         <title>Knowledge Home</title>
     </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=2c10158c4f69d3008f458a4e0210c7e4"/>
 </record_update>

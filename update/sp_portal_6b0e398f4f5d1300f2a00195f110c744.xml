@@ -65,6 +65,7 @@ $text-muted: #979797;</css_variables>
         <title>Service Portal version 3</title>
         <url_suffix>sp3</url_suffix>
     </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=6b0e398f4f5d1300f2a00195f110c744"/>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#ffffff</average_image_color>
         <chunk_size_bytes>734003</chunk_size_bytes>

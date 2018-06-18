@@ -41,4 +41,5 @@
         <url>/sp/ooo.do</url>
         <url_target>_blank</url_target>
     </sp_rectangle_menu_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=5e0d1d084fa9d3008f458a4e0210c755"/>
 </record_update>

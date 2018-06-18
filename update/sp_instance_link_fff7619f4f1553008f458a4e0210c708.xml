@@ -12,7 +12,7 @@
         <kb_topic/>
         <order>1</order>
         <roles/>
-        <sc_cat_item display_value="">12147da2d7532100a9ad1e173e24d4de</sc_cat_item>
+        <sc_cat_item display_value="Ask a Question">12147da2d7532100a9ad1e173e24d4de</sc_cat_item>
         <sc_category/>
         <short_description>Community-sourced answers to your questions</short_description>
         <size>md</size>
@@ -43,4 +43,5 @@
 	}
 }]]></widget_parameters>
     </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=fff7619f4f1553008f458a4e0210c708"/>
 </record_update>

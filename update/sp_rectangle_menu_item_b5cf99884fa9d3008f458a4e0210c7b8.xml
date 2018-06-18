@@ -16,7 +16,7 @@
         <label>Submit Request</label>
         <order>100</order>
         <record_script/>
-        <sc_cat_item display_value="Who is visiting AEGIS">b78f9d445df3b1005848233364595a1c</sc_cat_item>
+        <sc_cat_item display_value="">b78f9d445df3b1005848233364595a1c</sc_cat_item>
         <sc_category/>
         <short_description/>
         <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
@@ -41,4 +41,5 @@
         <url/>
         <url_target>_blank</url_target>
     </sp_rectangle_menu_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b5cf99884fa9d3008f458a4e0210c7b8"/>
 </record_update>

@@ -19,7 +19,7 @@
         <sc_cat_item/>
         <sc_category/>
         <short_description/>
-        <sp_page display_value="div_acc">844d49214f755740f2a00195f110c7d9</sp_page>
+        <sp_page display_value="">844d49214f755740f2a00195f110c7d9</sp_page>
         <sp_rectangle_menu/>
         <sp_rectangle_menu_item display_value="DIvision">4c707d654fed1b00f2a00195f110c795</sp_rectangle_menu_item>
         <sys_class_name>sp_rectangle_menu_item</sys_class_name>
@@ -41,4 +41,5 @@
         <url/>
         <url_target/>
     </sp_rectangle_menu_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=1f41b5a54fed1b00f2a00195f110c7d7"/>
 </record_update>

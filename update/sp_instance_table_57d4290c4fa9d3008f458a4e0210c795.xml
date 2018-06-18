@@ -7,9 +7,7 @@
         <css/>
         <display_field/>
         <field_list>short_description,u_division,assigned_to,u_next_review_date,u_reviewer_s</field_list>
-        <filter table="u_aegis_pnp">u_division=javascript:gs.getUser().getDepartmentID()^numberSTARTSWITHPNP^<item endquery="false" field="u_division" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUser().getDepartmentID()"/>
-            <item endquery="false" field="number" goto="false" newquery="false" operator="STARTSWITH" or="false" value="PNP"/>
-        </filter>
+        <filter table="u_aegis_pnp">u_division=javascript:gs.getUser().getDepartmentID()^numberSTARTSWITHPNP^</filter>
         <glyph/>
         <id/>
         <maximum_entries>15</maximum_entries>
@@ -41,4 +39,5 @@
         <url>/u_aegis_pnp_list.do?sysparm_fixed_query=u_division%3Djavascript%3Ags.getUser().getDepartmentID()%5EnumberSTARTSWITHPNP%5E</url>
         <widget_parameters/>
     </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=57d4290c4fa9d3008f458a4e0210c795"/>
 </record_update>

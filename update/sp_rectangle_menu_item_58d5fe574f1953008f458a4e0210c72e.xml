@@ -101,4 +101,5 @@ function getRecordBeingApproved(gr) {
         <url/>
         <url_target/>
     </sp_rectangle_menu_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=58d5fe574f1953008f458a4e0210c72e"/>
 </record_update>

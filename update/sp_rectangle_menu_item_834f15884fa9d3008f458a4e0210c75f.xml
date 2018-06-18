@@ -16,10 +16,10 @@
         <label>Calendar Report</label>
         <order>200</order>
         <record_script/>
-        <sc_cat_item display_value="Who is visiting AEGIS">b78f9d445df3b1005848233364595a1c</sc_cat_item>
+        <sc_cat_item display_value="">b78f9d445df3b1005848233364595a1c</sc_cat_item>
         <sc_category/>
         <short_description/>
-        <sp_page display_value="ooo_reports">7d8b14ff4f5993008f458a4e0210c764</sp_page>
+        <sp_page display_value="">7d8b14ff4f5993008f458a4e0210c764</sp_page>
         <sp_rectangle_menu/>
         <sp_rectangle_menu_item display_value="Who's Visiting">531f51884fa9d3008f458a4e0210c7db</sp_rectangle_menu_item>
         <sys_class_name>sp_rectangle_menu_item</sys_class_name>
@@ -41,4 +41,5 @@
         <url>/sp/wva_calendar.do</url>
         <url_target>_blank</url_target>
     </sp_rectangle_menu_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=834f15884fa9d3008f458a4e0210c75f"/>
 </record_update>
